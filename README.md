@@ -1,2 +1,2 @@
 # Python_learning_codes
-The first 3 files are the complete code for a random password generator, built in Python using PyCharm IDE.
+I made a simple password generator using input from strings containing all the ASCII characters, and then joining them together using random method, with the length of desired password being an input parameter
